@@ -6,10 +6,10 @@ This project demonstrates a simple and effective implementation of a **Decision 
 
 ## 📂 Repository Contents
 
-- `Cancer_Classification_DecisionTree.ipynb` – The main notebook with all steps from data loading to model evaluation
+- `EliteTEch_Project1.ipynb` – The main notebook with all steps from data loading to model evaluation
 - `Cancer_Data.csv` – The dataset used (based on Kaggle’s Breast Cancer Wisconsin Diagnostic dataset)
 - `Confusion_Matrix.png` – Tabular confusion matrix output
-- `decision_tree_visual.png` – Exported image of the trained decision tree
+- `dtreevis.png` – Exported image of the trained decision tree
 
 ---
 
